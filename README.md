@@ -1,4 +1,4 @@
 jomcom
 ======
 
-j! components and modules
+j! components
